@@ -42,8 +42,8 @@ Con experiencia en el desarrollo de aplicaciones **web y móviles**, he particip
 
 ### 📫 ¿Cómo contactarme?
 
-- 📧 [renecorreo@example.com](mailto:renecorreo@example.com) <!-- Reemplázalo por tu correo real -->
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil-linkedin) <!-- Reemplázalo por tu URL de LinkedIn -->
+- 📧 [alejandrorene19@gmail.com](mailto:renecorreo@example.com) <!-- Reemplázalo por tu correo real -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/rené-herrería-84b669307) <!-- Reemplázalo por tu URL de LinkedIn -->
 
 ---
 
