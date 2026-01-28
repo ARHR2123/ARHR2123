@@ -45,7 +45,7 @@ Con experiencia en el desarrollo de aplicaciones **web y móviles**, he particip
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="Postman"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" height="30" alt="Power BI"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg](https://seeklogo.com/free-vector-logos/power-bi)" height="30" alt="Power BI"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@ Con experiencia en el desarrollo de aplicaciones **web y móviles**, he particip
 ### 📫 ¿Cómo contactarme?
 
 - 📧 [alejandrorene19@gmail.com](mailto:renecorreo@example.com) <!-- Reemplázalo por tu correo real -->
-- 💼 [LinkedIn](https://www.linkedin.com/in/rené-herrería-84b669307) <!-- Reemplázalo por tu URL de LinkedIn -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/rené-alejandro-herrería-84b669307) <!-- Reemplázalo por tu URL de LinkedIn -->
 
 ---
 
